@@ -1,2 +1,2 @@
 # movie-api
-Node Js eğitimi
+Node Js eğitimi - Udemy
